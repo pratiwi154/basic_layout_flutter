@@ -1,16 +1,23 @@
-# layout_flutter
+# laporan layout flutter
 
-A new Flutter project.
+[](/laporan/1.png)
 
-## Getting Started
+[](/laporan/2.png)
 
-This project is a starting point for a Flutter application.
+[](/laporan/3.png)
 
-A few resources to get you started if this is your first Flutter project:
+[](/laporan/4.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[](/laporan/5.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[](/laporan/6.png)
+
+[](/laporan/7.png)
+
+[](/laporan/8.png)
+
+[](/laporan/9.png)
+
+[](/laporan/10.png)
+
+[](/laporan/11.png)
